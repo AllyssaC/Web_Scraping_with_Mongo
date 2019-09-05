@@ -12,3 +12,8 @@ Platforms Utilized were:
   * HTML 
   * Flask
   * MongoDB
+
+![screenshot1](https://github.com/AllyssaC/Web_Scraping_with_Mongo/blob/master/Screenshot%20(1).png)
+![screenshot2](https://github.com/AllyssaC/Web_Scraping_with_Mongo/blob/master/Screenshot%20(2).png)
+![screenshot3](https://github.com/AllyssaC/Web_Scraping_with_Mongo/blob/master/Screenshot%20(3).png)
+![screenshot4](https://github.com/AllyssaC/Web_Scraping_with_Mongo/blob/master/Screenshot%20(4).png)
